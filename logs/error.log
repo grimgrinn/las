@@ -1,0 +1,5 @@
+[Thu Jun 13 12:52:03.029169 2019] [authz_core:error] [pid 4412:tid 1996] [client 127.0.0.1:56451] AH01630: client denied by server configuration: C:/Users/softdev/PhpstormProjects/lasparser/
+[Thu Jun 13 12:52:03.032167 2019] [authz_core:error] [pid 4412:tid 1980] [client 127.0.0.1:56452] AH01630: client denied by server configuration: C:/Users/softdev/PhpstormProjects/lasparser/robots.txt
+[Thu Jun 13 12:52:03.266174 2019] [authz_core:error] [pid 4412:tid 1996] [client 127.0.0.1:56451] AH01630: client denied by server configuration: C:/Users/softdev/PhpstormProjects/lasparser/favicon.ico, referer: http://las/
+[Thu Jun 13 12:52:20.987309 2019] [authz_core:error] [pid 4412:tid 1996] [client 127.0.0.1:56480] AH01630: client denied by server configuration: C:/Users/softdev/PhpstormProjects/lasparser/
+[Thu Jun 13 12:52:21.093307 2019] [authz_core:error] [pid 4412:tid 1996] [client 127.0.0.1:56480] AH01630: client denied by server configuration: C:/Users/softdev/PhpstormProjects/lasparser/favicon.ico, referer: http://las/
