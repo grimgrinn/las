@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>las</title>
+    <link rel="stylesheet" href="index.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
 
 <input id="file" type="file" >
 
-<canvas id="graph"></canvas>
+<div class="plotly-container">
+    <div id="plotly"></div>
+</div>
 
-<!--<script src="index.js"></script>-->
 <script src="lasreadernew.js"></script>
+<script src="graph.js"></script>
 <script src="script.js"></script>
 </body>
 </html>

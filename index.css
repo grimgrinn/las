@@ -1,0 +1,11 @@
+.plotly-container {
+    height: 650px;
+    overflow-y: scroll;
+    width: 500px;
+    float: left;
+}
+
+#plotly {
+    height: 5000px;
+    width: 450px;
+}
